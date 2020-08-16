@@ -1,6 +1,6 @@
 {
   "name": "webpack-starter-kit",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcusfenix1/goit-js-hw-12-countries.git"
+    "url": "git+https://github.com/marcusfenix1/js-country-finder.git"
   },
   "keywords": [],
   "author": "Eugene Zhoglo <seraffallen@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcusfenix1/goit-js-hw-12-countries/issues"
+    "url": "https://github.com/marcusfenix1/js-country-finder/issues"
   },
-  "homepage": "https://marcusfenix1.github.io/goit-js-hw-12-countries",
+  "homepage": "https://marcusfenix1.github.io/js-country-finder",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
